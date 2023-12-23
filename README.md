@@ -23,12 +23,6 @@ The objective of this task was to create the design mockups and wireframes for a
 - **Wireframes:** Folder containing wireframes for the application layout.
 - **Prototype:** Interactive prototype showcasing the application flow.
 
-## Usage Instructions
-
-To access and view the Figma project:
-
-1. Visit the Figma platform or open the Figma desktop app.
-2. Import the Figma project by [insert instructions to import the project or share Figma link here].
 
 ### Screenshots/Demo
 

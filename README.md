@@ -26,10 +26,9 @@ The objective of this task was to create the design mockups and wireframes for a
 
 ### Screenshots/Demo
 
-Figma Prototype Preview!![Screenshot 2023-12-23 110226](https://github.com/manojkarnan/codsoft-task1/assets/154117732/b31415f5-3225-4c18-8610-f1e2d1b0075f)
+![Screenshot 2023-12-23 110226](https://github.com/manojkarnan/codsoft-task1/assets/154117732/b31415f5-3225-4c18-8610-f1e2d1b0075f)
 
- 
- ![Screenshot 2023-12-23 110246](https://github.com/manojkarnan/codsoft-task1/assets/154117732/e10ceb20-d058-49d5-b90f-c474bb7cd19e)
+![Screenshot 2023-12-23 110246](https://github.com/manojkarnan/codsoft-task1/assets/154117732/e10ceb20-d058-49d5-b90f-c474bb7cd19e)
 
 
 

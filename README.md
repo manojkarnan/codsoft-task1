@@ -1,6 +1,3 @@
-Certainly! Below is an example template for a README file for a mobile application designed using Figma:
-
----
 
 # Mobile Application Design Using Figma - Task #1
 

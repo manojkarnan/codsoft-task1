@@ -38,10 +38,6 @@ The objective of this task was to create the design mockups and wireframes for a
 - Each screen design emphasizes consistency in layout, colors, and typography.
 - Feedback and iterations are welcomed for further improvements.
 
-## Acknowledgments
-
-- Special thanks to [Name] for their valuable feedback during the design iterations.
-
 ## Contact Information
 
 For any inquiries or further details regarding this Figma design project, please contact:
